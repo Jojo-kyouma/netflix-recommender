@@ -1,0 +1,18 @@
+# Netflix Data (Personal Files)
+# We ignore these to ensure your personal history isn't uploaded to GitHub
+NetflixViewingHistory.csv
+NetflixLiked.txt
+
+# Windows System Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell / IDE
+.history/
+.vscode/
+*.log
+*.tmp
+
+# MacOS System Files (in case someone extracts the zip on a Mac)
+.DS_Store
