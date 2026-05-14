@@ -1,5 +1,5 @@
 $inputFile = "NetflixViewingHistory.csv"
-$outputFile = "NetflixSeriesLiked.txt"
+$outputFile = "NetflixLiked.txt"
 
 if (-not (Test-Path $inputFile)) { 
     Write-Host "Error: $inputFile not found."
