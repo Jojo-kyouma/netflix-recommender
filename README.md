@@ -16,4 +16,4 @@ This script generates a list of your most-liked Netflix series. It identifies se
 4. A new file named `NetflixLiked.txt` will be created containing your filtered series list.
 
 ### Further Ideas
-Feed it to AI and tell him to recommend you Series based on the provided list. Ask him to further filter the selection if you want, e.g. "Ignore addictive, superficial, and formulaic Titles during your selection."
+Feed it to AI and tell him to recommend you Series based on the provided list. Ask him to further filter the selection if you want, e.g. "Ignore addictive, superficial, and formulaic titles during your selection-based recommendation."
