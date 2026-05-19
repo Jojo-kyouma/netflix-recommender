@@ -1,6 +1,6 @@
 # Netflix Series Liked Filter
 
-**For windows computer.**
+**For Windows computer.**
 
 This script generates a list of your most-liked Netflix series. It identifies series where you watched 3 or more episodes in a row and saves those titles to a new file.
 
